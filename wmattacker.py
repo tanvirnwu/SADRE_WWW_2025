@@ -158,7 +158,7 @@ class CropAttacker(WMAttacker):
             img.save(out_path)
 
 
-class DiffWMAttacker(WMAttacker):
+class RegenAttacker(WMAttacker):
     def __init__(self, pipe, batch_size=20, noise_step=60, captions={}):
         self.pipe = pipe
         self.BATCH_SIZE = batch_size
@@ -224,7 +224,7 @@ class DiffWMAttacker(WMAttacker):
                 batched_attack(latents_buf, prompts_buf, outs_buf)
             if return_latents:
                 return ret_latents
-
+#Author: Inzamanul Alam
 class WPWMAttacker(WMAttacker):
     def __init__(self, pipe, batch_size=20, noise_step=60, captions={}, saliency_mask=None):
         self.pipe = pipe

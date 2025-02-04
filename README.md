@@ -14,3 +14,10 @@ pip install -r requirements.txt
 ```
 python run.py
 ````
+
+
+## Cite this Paper
+
+If you find our work useful in your research, please consider citing our paper:
+
+```bibtex

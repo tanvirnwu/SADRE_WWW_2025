@@ -22,6 +22,13 @@ python run.py
 If you find our work useful in your research, please consider citing our paper:
 
 ```bibtex
+@inproceedings{sadre_www_2025,
+  title={Saliency-Aware Diffusion Reconstruction for Effective Invisible Watermark Removal},
+  author={Alam, Inzamamul and Islam, Md Tanvir and Woo, Simon S.},
+  booktitle={Companion Proceedings of the ACM Web Conference 2025 (WWW Companion’25)},
+  year={2025},
+  doi= {https://doi.org/10.1145/3701716.3715519}
+}
 ```
 
-Part of this project is based on [WatermarkAttacker](https://github.com/XuandongZhao/WatermarkAttacker)
+Part of this project is based on [WatermarkAttacker](https://github.com/XuandongZhao/WatermarkAttacker).

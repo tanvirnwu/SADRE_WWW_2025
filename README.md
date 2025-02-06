@@ -22,6 +22,6 @@ python run.py
 If you find our work useful in your research, please consider citing our paper:
 
 ```bibtex
-
+```
 
 Part of this project is based on [WatermarkAttacker](https://github.com/XuandongZhao/WatermarkAttacker)

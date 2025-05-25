@@ -22,7 +22,7 @@ python run.py
 If you find our work useful in your research, please consider citing our paper and star ✨✨ this repository. Thank you!
 
 ```bibtex
-@inproceedings{10.1145/3701716.3715519,
+@inproceedings{alam2025saliency,
 author = {Alam, Inzamamul and Islam, Md Tanvir and Woo, Simon S.},
 title = {Saliency-Aware Diffusion Reconstruction for Effective Invisible Watermark Removal},
 publisher = {Association for Computing Machinery},
